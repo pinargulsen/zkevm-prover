@@ -1,4 +1,4 @@
-# zkEVM Prover
+## zkEVM Prover
 zkEVM proof generator
 ## General info
 The zkEVM Prover process can provide up to 3 RPC services and clients:
